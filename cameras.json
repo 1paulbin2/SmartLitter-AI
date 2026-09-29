@@ -1,0 +1,17 @@
+{
+    "Camera 01": {
+        "location": "VJEC Main Gate",
+        "latitude": 12.0657,
+        "longitude": 75.3879
+    },
+    "Camera 02": {
+        "location": "VJEC Bus Stop",
+        "latitude": 12.0665,
+        "longitude": 75.3890
+    },
+    "Camera 03": {
+        "location": "VJEC Parking Area",
+        "latitude": 12.0649,
+        "longitude": 75.3868
+    }
+}
